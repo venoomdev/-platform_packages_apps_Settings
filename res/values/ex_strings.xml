@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 ProjectArcana ROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About phone screen, Extended version -->
+    <string name="arcana_version">Arcana manifestation</string>
+    <string name="arcana_version_default">Unknown</string>
+    <string name="keywords_arcana_version">arcana version, project version</string>
+    
+    <!-- Arcana maintainer -->
+    <string name="maintainer">Maintainer</string>
+
+    <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
+    <!-- String for removal of sensitive info on about, depending on tap -->
+    <string name="device_info_protected_single_press">Tap to show info</string>
+
+     <!-- Fingerprint location message - default -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Locate the fingerprint sensor on the left side of your phone.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Locate the fingerprint sensor on the right side of your phone.</string>
+
+    <!-- Fingerprint location message - generic -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Locate the fingerprint sensor on the left side of your device.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Locate the fingerprint sensor on the right side of your device.</string>
+
+    <!-- Fingerprint location message - tablet -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Locate the fingerprint sensor on the left side of your tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Locate the fingerprint sensor on the right side of your tablet.</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
+    <!-- Density category -->
+    <string name="density_category">Density options</string>
+
+    <!-- Increasing ring tone volume -->
+    <string name="increasing_ring_volume_option_title">Increasing ring volume</string>
+    <string name="increasing_ring_min_volume_title">Start volume</string>
+    <string name="increasing_ring_ramp_up_time_title">Ramp-up time</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader</string>
+
+    <!-- Volume link notification -->
+    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
+    <!-- About ProjectArcana -->
+    <string name="arcana_about_info">What is Project Arcana?</string>
+    <string name="arcana_about_summary">Welcome to the Arcanery.</string>
+    <string name="arcana_about_info_summary">Project Arcana is a simple custom android OS fueled by AOSPExtended that aims to be simple yet cunning. Project Arcana aims to provides necessary customizations that are needed for users\' everyday life, from network traffic indicator down to everyone\'s favorite icon styles, Project Arcana promises to deliver these features out-of-the-box. While also promising to be simple, Project Arcana tries to be aesthetic without making its users go through a lot 
+  of UI/UX configurations. We are fans of simplicity. We strive to keep the ROM bloatfree and fast. &#35;NeverForget</string>
+    <string name="dev_info">About Project Arcana</string>
+    <string name="github">Github</string>
+    <string name="github_description">View our source code</string>
+    <string name="gplus">Google+</string>
+    <string name="gplus_description">Join our G+ community</string>
+    <string name="telegram">Telegram</string>
+    <string name="telegram_description">Subscribe to our Telegram channel</string>
+    <string name="web">Download Page</string>
+    <string name="web_description">Visit our download portal</string>
+    <string name="help_translate">Translations</string>
+    <string name="help_translate_description">Translate to your language, visit our Crowdin</string>
+    <string name="walls">Wallpapers</string>
+    <string name="walls_description">Get wallpapers contributed by various users</string>
+    <string name="leads">The minds behind the Arcanery.</string>
+    <string name="team_1">dlwlrma123 &#40;dlwlrma123&#41;</string>
+    <string name="team1_description">Founder</string>
+    <string name="team_2">mafiasupremacy &#40;Joaquin-000&#41;</string>
+    <string name="team2_description">Developer and Moderator</string>
+    <string name="team_3">hazama25 &#40;hazama25&#41;</string>
+    <string name="team3_description">Developer and Moderator</string>
+    <string name="maintainer_1">dlwlrma123 &#40;dlwlrma123&#41;</string>
+    <string name="maintainer1_description">Xiaomi Redmi 7a</string>
+    <string name="maintainer_2">mafiasupremacy &#40;Joaquin-000&#41;</string>
+    <string name="maintainer2_description">Poco M3/Redmi 9T</string>
+    <string name="maintainer_3">hazama25 &#40;hazama25&#41;</string>
+    <string name="maintainer3_description">Poco X3 NFC, Poco X3 Pro</string>
+    <string name="maintainer_4">Park Mujin &#40;JojiOnThatBeat&#41;</string>
+    <string name="maintainer4_description">Xiaomi Redmi Note 7/7s, Poco X3 Pro</string>
+    <string name="maintainer_5">Don Romantico &#40;nobara10&#41;</string>
+    <string name="maintainer5_description">Xiaomi Redmi Note 10</string>
+    <string name="maintainer_6">don eun &#40;eun0115&#41;</string>
+    <string name="maintainer6_description">Realme 5 Pro</string>
+    <string name="maintainer_7">Sharma G &#40;Sharma_G04&#41;</string>
+    <string name="maintainer7_description">Poco X2</string>
+    <string name="maintainer_8">Blur &#40;blur2003&#41;</string>
+    <string name="maintainer8_description">Xiaomi Redmi Note 10</string>
+    <string name="maintainer_9">SilentKiller &#40;Alone0316&#41;</string>
+    <string name="maintainer9_description">Xiaomi Redmi Note 4x</string>
+    <string name="maintainer_10">Vastro Lorde &#40;Vastrolorde&#41;</string>
+    <string name="maintainer10_description">Xiaomi Redmi Note 4x</string>
+    <string name="maintainer_11">Hari HK &#40;makhk&#41;</string>
+    <string name="maintainer11_description">Xiaomi Redmi Note 10 Pro</string>
+    <string name="maintainer_12">Sir Johnny &#40;AssGuardGod&#41;</string>
+    <string name="maintainer12_description">Xiaomi Redmi Note 7 Pro</string>
+    <string name="maintainer_13">Razsen &#40;Razs_19&#41;</string>
+    <string name="maintainer13_description">Xiaomi Redmi Note 8</string>
+    <string name="maintainer_14">Ash Ketchum &#40;I_am_miki&#41;</string>
+    <string name="maintainer14_description">Xiaomi Redmi Note 7 Pro</string>
+    <string name="maintainer_15">HaSSaN &#40;HaSSaN_MoHl&#41;</string>
+    <string name="maintainer15_description">Xiaomi Redmi Note 9s/9 Pro/9 Pro Max/10 Lite/Poco M2 Pro</string>
+    <string name="maintainer_16">Paul &#40;blazerpaul15&#41;</string>
+    <string name="maintainer16_description">Xiaomi Redmi Note 8 Pro</string>
+    <string name="maintainer_17">N4veenNK &#40;Naveen4264&#41;</string>
+    <string name="maintainer17_description"> Asus Zenfone Max Pro M1</string>
+    <string name="maintainer_18">Om (Takumi021) &#40;Takumi021&#41;</string>
+    <string name="maintainer18_description">Realme 5/5i/5s</string>
+    <string name="maintainer_19">Nexus &#40;GODFATHER_AF&#41;</string>
+    <string name="maintainer19_description">Poco F1</string>
+    <string name="maintainer_20">rxhul &#40;rk_134&#41;</string>
+    <string name="maintainer20_description">Xiaomi Redmi Note 5/5 Plus</string>
+    <string name="maintainer_21">Lord Itachi &#40;manid_reddy&#41;</string>
+    <string name="maintainer21_description">Moto One Fusion +</string>
+    <string name="maintainer_22">LaLeeroy &#40;leeroy&#41;</string>
+    <string name="maintainer22_description">Xiaomi Redmi Note 5A Prime/Lite</string>
+    <string name="maintainers">The wizards of the Arcanery.</string>
+    <string name="maintainers_title">Official maintainers</string>
+    <string name="maintainers_summary">Officially supported devices and their respective maintainers.</string>
+
+    <!-- Maintainer section -->
+    <string name="maintainer_description">Maintainer: %1$s</string>
+    <string name="loading_devices">Loading devices list...</string>
+    <string name="loading_devices_failed">Failed to load devices list</string>
+    <string name="devices_list_empty">List is empty, tap the icon to reload</string>
+    <string name="reload_list">Reload</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+
+    <!-- Screenshot shutter sound -->
+    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
+
+    <!-- Running services -->
+    <string name="background_processes_settings_title">Background processes</string>
+
+    <!-- Wake on plug -->
+    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+
+    <!-- Home button wake -->
+    <string name="home_wake_button_title">Home button wake-up</string>
+    <string name="home_wake_button_summary">Enable home button to waking up screen</string>
+
+    <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
+    <string name="show_cpu_info">Show CPU info</string>
+    <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
+    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+
+    <!-- Media gestures -->
+    <string name="prevent_ringing_option_mute_no_media">Mute, no media</string>
+    <string name="prevent_ringing_option_mute_no_media_summary">On (mute, no media)</string>
+
+    <!-- Custom light color -->
+    <string name="custom_light_title">Light color</string>
+    <string name="custom_light_on_time_title">Light ON time during led pulse (ms)</string>
+    <string name="custom_light_off_time_title">Light OFF time during led pulse (ms)"</string>
+    <string name="value_equals_default">def</string>
+
+    <!-- Lock screen pattern size -->
+    <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
+    <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
+    <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
+    <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
+    <string name="lock_settings_picker_pattern_size_message">Choose a pattern size</string>
+    <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
+    <string name="lockpattern_settings_enable_error_path_title">Show pattern error</string>
+    <!-- Whether the dots will be drawn when using the lockscreen pattern -->
+    <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
+
+    <!-- Pocket mode -->
+    <string name="proximity_wake_title">Prevent accidental wake-up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+    
+    <!-- Fullscreen gestures -->
+    <string name="fullscreen_gestures_title">Fullscreen gestures</string>
+    <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
+    
+    <!-- Doze on charge -->
+    <string name="doze_on_charge_title">Always on when charging</string>
+    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+
+    <!-- Misc gesture settings -->
+    <string name="back_gesture_haptic_title">Haptic feedback</string>
+    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+
+    <!-- Custom actions -->
+    <string name="action_nothing">No action</string>
+    <string name="action_menu">Menu</string>
+    <string name="action_app_switch">Recents</string>
+    <string name="action_search">Assistant</string>
+    <string name="action_voice_search">Voice search</string>
+    <string name="action_launch_camera">Camera</string>
+    <string name="action_last_app">Last app</string>
+    <string name="action_splitscreen">Split screen</string>
+    <string name="action_flashlight">Flashlight</string>
+    <string name="action_clear_notifications">Clear notifications</string>
+    <string name="action_volume_panel">Volume panel</string>
+    <string name="action_screen_off">Screen off</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="action_power_menu">Power menu</string>
+    <string name="action_screenshot">Screenshot</string>
+    <string name="action_qs_panel">QS panel</string>
+    <string name="action_app_action">Application</string>
+    <string name="action_ringer_modes">Ringer modes</string>
+    <string name="kill_app">Kill foreground app</string>
+    <string name="recent_app_toggle">Switch recent app</string>
+
+    <!-- Long swipe gestures -->
+    <string name="navbar_gesture_tweaks_pref_title">Advanced gestures options</string>
+    <string name="navbar_gesture_tweaks_pref_summary">Customize gestures and set custom actions</string>
+    <string name="navbar_gesture_tweaks_cat_title">Advanced</string>
+    <string name="swipe_app_select_summary">Select an app to launch with the squeeze action</string>
+    <string name="long_back_swipe_timeout_title">Long swipe action timeout</string>
+    <string name="left_swipe_actions_title">Long left swipe action</string>
+    <string name="left_swipe_app_action_title">Select long left swipe app</string>
+    <string name="right_swipe_actions_title">Long right swipe action</string>
+    <string name="right_swipe_app_action_title">Select long right swipe app</string>
+    <string name="left_vertical_swipe_actions_title">Vertical left L-swipe action</string>
+    <string name="left_vertical_swipe_app_action_title">Select vertical left swipe app</string>
+    <string name="right_vertical_swipe_actions_title">Vertical right L-swipe action</string>
+    <string name="right_vertical_swipe_app_action_title">Select vertical right swipe app</string>
+    <string name="gesture_nav_tweaks_footer_info">To choose a specific app activity for the action, long press on any app in the apps picker.\n\nIf launcher is showing, do the swipe at the very bottom area of the screen to trigger the action.</string>
+    <string name="back_swipe_extended_title">Extended swipe action</string>
+    <string name="back_swipe_extended_summary">Trigger action on wider swipe (more than half of display size), or a L swipe (vertically longer enough)</string>
+
+</resources>
