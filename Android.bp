@@ -55,7 +55,8 @@ android_library {
 
     resource_dirs: [
         "res",
-        "Extensions/res",
+        "res-pixel",
+	"Extensions/res",
     ],
 
     static_libs: [
@@ -101,7 +102,6 @@ android_library {
         "androidx.navigation_navigation-ui-ktx",
         "kotlin-stdlib",
     ],
-
     libs: [
         "telephony-common",
         "ims-common",
